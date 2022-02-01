@@ -1,0 +1,10 @@
+{
+  "name": "ionic-splash-animated",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
